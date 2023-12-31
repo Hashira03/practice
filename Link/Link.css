@@ -1,0 +1,27 @@
+.bb2{
+    background-color: white;
+    text-align: center;
+}
+.worddd{
+    color: black;
+}
+.size{
+    font-size: small;
+}
+
+.p1{
+    margin-left: 100px;
+}
+.h2{
+    color:black;
+    font-size: 20;
+    
+}
+.h3{
+    color: black;
+    font-size: 15;
+}
+
+.info-button:hover {
+    box-shadow: 0 0px 10px var(--cfOrange);
+}
